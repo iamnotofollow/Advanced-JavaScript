@@ -1,6 +1,6 @@
 ## `.map()`, `.reduce()` and `.filter()`
 
-###.map()
+### .map()
 
 The `.map()` method is used to apply a function on every element in an array. A new array is then returned. You can think of 
 `.map()` as a *for loop*, that is specifically for transforming values.
@@ -28,7 +28,7 @@ let plus5 = arr.map((val, i, arr) => {
 });
 ```
 
-###.filter()
+### .filter()
 
 The `.filter()` method returns a new array created from all elements that pass a certain test performed on original array.
 You can think of filter() as a for loop, that is specifically for filtering in/out certain values from an array.
@@ -57,7 +57,7 @@ let even = arr.filter(val => {
 }
 ```
 
-###.reduce()
+### .reduce()
 
 The `.reduce()` method is used to apply a function to each of the element in the array to reduce the array to a single value.
 You can think of reduce() as a for loop, that is specifically for using the values of an array to create *something new*.
