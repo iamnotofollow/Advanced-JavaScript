@@ -95,4 +95,4 @@ let sum = arr.reduce((acc, val) => {
   return acc + val;
 }, 100);
 ```
-The above code will return `**110**`, the calculation will start at 100 and will add the callback function return value 10 to it.
+The above code will return **`110`**, the calculation will start at 100 and will add the callback function return value 10 to it.
