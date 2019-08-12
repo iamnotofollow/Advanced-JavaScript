@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -28,3 +29,4 @@ document.getElementById("demo").innerHTML = mul;
 
 </body>
 </html>
+```
